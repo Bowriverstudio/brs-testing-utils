@@ -1,0 +1,12 @@
+{
+    "name": "brs-testing-utils",
+    "version": "1.0.0",
+    "description": "Storybook and Jest Helpers with frontity",
+    "keywords": [],
+    "homepage": "https://frontity.org",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://community.frontity.org"
+    },
+    "dependencies": {}
+}
